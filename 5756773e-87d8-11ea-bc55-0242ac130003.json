@@ -1,7 +1,7 @@
 [
   {
     "uid": "9a541b28-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/worstkiller/grocer-ios/raw/master/Grocer-IOS/resources/fruits/kiwi.png",
+    "image": "https://media.ed.edmunds-media.com/ford/f-150/2025/oem/2025_ford_f-150_crew-cab-pickup_lariat_fq_oem_1_1600.jpg",
     "title": "Car",
     "subtitle": "2012 Ford F150",
     "price": 4500,
@@ -17,7 +17,7 @@
   },
   {
     "uid": "9a541fa6-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/worstkiller/grocer-ios/raw/master/Grocer-IOS/resources/promo/fruit_promo.jpg",
+    "image": "https://talktoregall.click/wp-content/uploads/2024/11/TalkToRegal.com-01-C-.png",
     "title": "40% OFF",
     "subtitle": "Use the above code \nfor your next movie visit!",
     "misc_info": "REGAL Theatres",
@@ -27,7 +27,7 @@
   },
   {
     "uid": "9a5420aa-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/worstkiller/grocer-ios/raw/master/Grocer-IOS/resources/fruits/avacado.png",
+    "image": "https://assets.superhivemarket.com/store/productimage/833700/image/xlarge-f405fbb85fbc8c0900e33a59beed1342.png",
     "title": "Macbook Pro",
     "subtitle": "Great Condition",
     "price": 200,
@@ -43,7 +43,7 @@
   },
   {
     "uid": "9a54217c-87e1-11ea-bc55-0242ac130003",
-    "image": "https://github.com/worstkiller/grocer-ios/raw/master/Grocer-IOS/resources/fruits/papaya.png",
+    "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/ae712493-97b6-4b1a-b7bb-902f3cc2d085/custom-phantom-luna-2-elite-by-you.png",
     "title": "Nike Cleats",
     "subtitle": "Brand New Nike Cleats",
     "price": 80,
