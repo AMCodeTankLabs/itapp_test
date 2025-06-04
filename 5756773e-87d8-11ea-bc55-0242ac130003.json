@@ -13,6 +13,7 @@
     "description": "2012 Ford F150 XLT Extended Crew Cab! Great deal, only 2 million miles, and yet it somehow still runs. It's crazy!",
     "quantity_desc": "",
     "delivery": "Meet to Pick",
+    "shipping": 0,
     "discount": ""
   },
   {
@@ -39,6 +40,7 @@
     "description": "2012 Macbook Pro with 512GB HD, 16GB RAM, Runs all current games, etc",
     "quantity_desc": "1",
     "delivery": "Standard: 25$",
+    "shipping": 25,
     "discount": "None"
   },
   {
@@ -55,6 +57,7 @@
     "description": "Brand new cleats",
     "quantity_desc": "1",
     "delivery": "Standard: 25$",
+    "shipping": 25,
     "discount": "None"
   },
   {
@@ -71,6 +74,7 @@
     "description": "Fresh Mangos from the farm to you!",
     "quantity_desc": "",
     "delivery": "Standard: Saturday Morning",
+    "shipping": 50,
     "discount": "You save: 50%"
   },
   {
@@ -87,6 +91,7 @@
     "description": "",
     "quantity_desc": "",
     "delivery": "Standard: Wednesday Afternoon",
+    "shipping": 50,
     "discount": "You save: 60%"
   }
 ]
