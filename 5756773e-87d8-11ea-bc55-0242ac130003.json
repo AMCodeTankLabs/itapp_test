@@ -58,7 +58,9 @@
     "misc_info": "REGAL Theatres",
     "accent_color": "#f5e0bb",
     "parent_uid": "5756773e-87d8-11ea-bc55-0242ac130003",
-    "type": "promotion"
+    "type": "promotion",
+    "behavior": "reveal",
+    "link": "https://www.knoxnews.com/gcdn/presto/2018/10/30/PKNS/5655a435-e656-4471-88b4-0817f9cb9538-end_Regal_pinnacle_18_03.JPG"
   },
   {
     "uid": "9a542244-87e1-11ea-bc55-0242ac130003",
@@ -85,7 +87,9 @@
     "misc_info": "REGAL Theatres 2",
     "accent_color": "#f5e0bb",
     "parent_uid": "5756773e-87d8-11ea-bc55-0242ac130003",
-    "type": "promotion"
+    "type": "promotion",
+    "behavior": "link",
+    "link": "https://www.regmovies.com/"
   },
   {
     "uid": "9a542384-87e1-11ea-bc55-0242ac130003",
